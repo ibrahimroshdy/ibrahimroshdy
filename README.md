@@ -11,24 +11,28 @@
 </p>
 
 <h2 align="left"> Projects </h2>
-<div align="left">
-    <table align="left">
+<table>
+    <thead>
         <tr>
             <th>Project Name</th>
             <th>Description</th>
-            <th>Articles [Medium]</th>
+            <th>Articles</th>
         </tr>
+    </thead>
+    <tbody>
         <tr>
             <td>
                 <a href="https://github.com/ibrahimroshdy/refresher">
                     Refresher
                 </a>
             </td>
-            <td>A complete infrastructure that embodies different technologies to serve a series of tasks</td>
+            <td>
+                A robust infrastructure incorporating various technologies to streamline complex tasks.
+            </td>
             <td>
                 <a href="https://medium.com/dev-genius/refresher-project-a-glimpse-of-system-design-and-architecture-aaef28510dd4">
                     Article 1
-                </a>
+                </a>, 
                 <a href="https://medium.com/dev-genius/refresher-project-part-2-explaining-how-to-build-a-simple-infrastructure-with-django-celery-ddf7a797c791">
                     Article 2
                 </a>
@@ -40,20 +44,20 @@
                     Multi-Arch Build with GitHub Actions
                 </a>
             </td>
-            <td>A sample project of adding continuous integration multi-arch buildx to GitHub and utilising the GitHub actions, workflows and job settings
+            <td>
+                Demonstrates implementing multi-architecture builds using GitHub Actions, workflows, and job configurations.
             </td>
             <td>
                 <a href="https://blog.devgenius.io/continuous-integration-github-1130217cc2e9">
                     Article 1
-                </a>
+                </a>, 
                 <a href="https://blog.devgenius.io/how-to-build-your-docker-images-using-multi-arch-to-support-arm64-m1-macbook-6ebc42a47cd7">
                     Article 2
                 </a>
             </td>
         </tr>
-    </table>
-</div>
-
+    </tbody>
+</table>
 <h2 align="left"> Tech Stack </h2>
 <div>
     <h4 align="left">Languages/DB</h4>
