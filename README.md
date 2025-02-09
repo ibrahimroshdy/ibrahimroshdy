@@ -72,13 +72,16 @@
         </tr>
     </tbody>
 </table>
+
 <h2 align="left"> Tech Stack </h2>
+<table border="0">
+<tr>
+<td valign="top" width="50%">
 <div>
     <h4 align="left">Languages/DB</h4>
     <p align="left">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-        <!-- <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> -->
         <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
     </p>
     <h4 align="left">Git & DevOps</h4>
@@ -91,35 +94,34 @@
     <p align="left">
         <b>Backend</b><br>
         <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
-        <!-- <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
-        <br><br>
+        <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/><br>
         <b>Data & Messaging</b><br>
         <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
         <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
-        <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-        <br><br>
+        <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/><br>
         <b>Monitoring & Analytics</b><br>
         <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/>
         <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
         <img src="https://img.shields.io/badge/Apache%20Superset-326CE5?style=for-the-badge&logo=apache&logoColor=white"/>
-        <br>
     </p>
 </div>
+</td>
+<td valign="top" width="50%">
+<div align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ibrahimroshdy&show_icons=true&theme=transparent&count_private=true" alt="GitHub Stats" />
+  <br>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimroshdy&theme=transparent" alt="GitHub Streak" />
+  <br>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimroshdy&layout=compact&theme=transparent&count_private=true" alt="Top Languages" />
+</div>
+</td>
+</tr>
+</table>
 
-
-<h2 align="lef"> Contact me </h2>
+<h2 align="left"> Contact me </h2>
 <p align="kef">
     <a href="https://medium.com/@ibrahimroshdy"><img
             src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/ibrahim-roshdy/"><img
             src="https://img.shields.io/badge/-Ibrahim_Roshdy-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimroshdy&show_icons=true&theme=transparent&count_private=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimroshdy&theme=transparent" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimroshdy&layout=compact&theme=transparent&count_private=true" alt="Top Languages" />
-</div>
