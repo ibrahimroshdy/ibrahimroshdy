@@ -1,13 +1,14 @@
 <h1 align="center"> Hi! I'm Roshdy 👋</h1>
 <p align="center">
-    Software Engineer and Product Manager.
-    <br>
-    I spend my time building side projects and trying out new platforms.
-    I develop projects and write about them.
-    <br>
-    <br>
-    Committed to ongoing learning and professional development, <br>
-    I have a particular focus on system design, continuous integration, and product management.
+    Software Engineer with expertise in backend development and product management.
+    <br><br>
+    I focus on building scalable solutions and sharing knowledge through my 
+    <a href="https://medium.com/@ibrahimroshdy">technical writing</a>.
+    <br><br>
+    My work spans system design, infrastructure development, and continuous integration practices. 
+    I'm passionate about creating efficient solutions and documenting the journey to help others learn.
+    <br><br>
+    Currently exploring and writing about modern software architecture, DevOps practices, and product development methodologies.
 </p>
 
 <h2 align="left"> Projects </h2>
@@ -56,6 +57,19 @@
                 </a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/ibrahimroshdy/django-pdf-actions">
+                    Django PDF Actions
+                </a>
+            </td>
+            <td>
+                A Django app that provides admin actions for PDF operations.
+            </td>
+            <td>
+                TBD
+            </td>
+        </tr>
     </tbody>
 </table>
 <h2 align="left"> Tech Stack </h2>
@@ -69,24 +83,26 @@
     </p>
     <h4 align="left">Git & DevOps</h4>
     <p align="left">
-        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-        <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange"/>
         <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white"/>
+        <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
         <img src="https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white"/>
     </p>
-    <h4 align="left">Frameworks</h4>
+    <h4 align="left">Frameworks & Tools</h4>
     <p align="left">
+        <b>Backend</b><br>
         <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
         <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
         <!-- <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
+        <br><br>
+        <b>Data & Messaging</b><br>
         <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
         <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
         <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+        <br><br>
+        <b>Monitoring & Analytics</b><br>
         <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/>
         <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
-        <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Apache%20Superset-326CE5?style=for-the-badge&logo=apache&logoColor=white"/>
         <br>
     </p>
 </div>
@@ -100,6 +116,10 @@
             src="https://img.shields.io/badge/-Ibrahim_Roshdy-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 </p>
 
-<div>
-<img src="gh-contrib-oct-24.png">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimroshdy&show_icons=true&theme=transparent&count_private=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimroshdy&theme=transparent" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimroshdy&layout=compact&theme=transparent&count_private=true" alt="Top Languages" />
 </div>
