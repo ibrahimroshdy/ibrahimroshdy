@@ -67,7 +67,9 @@
                 A Django app that provides admin actions for PDF operations.
             </td>
             <td>
-                TBD
+                <a href="https://blog.devgenius.io/django-pdf-actions-d4a87960f4ac">
+                    Article 1
+                </a>
             </td>
         </tr>
     </tbody>
