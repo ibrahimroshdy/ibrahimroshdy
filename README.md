@@ -110,18 +110,18 @@
 </td>
 <td valign="top" width="50%">
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ibrahimroshdy&show_icons=true&theme=transparent&count_private=true" alt="GitHub Stats" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ibrahimroshdy&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimroshdy&theme=transparent" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimroshdy&theme=transparent&include_all_commits=true" alt="GitHub Streak" />
   <br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimroshdy&layout=compact&theme=transparent&count_private=true" alt="Top Languages" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimroshdy&layout=compact&theme=transparent&count_private=true&include_all_commits=true" alt="Top Languages" />
 </div>
 </td>
 </tr>
 </table>
 
 <h2 align="left"> Contact me </h2>
-<p align="kef">
+<p align="left">
     <a href="https://medium.com/@ibrahimroshdy"><img
             src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/ibrahim-roshdy/"><img
