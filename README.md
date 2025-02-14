@@ -110,6 +110,8 @@
 </td>
 <td valign="top" width="50%">
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ibrahimroshdy&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+  <br>
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ibrahimroshdy&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <br>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimroshdy&theme=transparent&include_all_commits=true" alt="GitHub Streak" />
