@@ -114,7 +114,7 @@
   <br>
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ibrahimroshdy&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimroshdy&theme=transparent&hide_border=true" alt="GitHub Streak" />
+<!--   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimroshdy&theme=transparent&hide_border=true" alt="GitHub Streak" /> -->
   <br>
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimroshdy&layout=compact&theme=transparent&count_private=true&include_all_commits=true" alt="Top Languages" />
 </div>
