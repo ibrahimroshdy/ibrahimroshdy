@@ -3,7 +3,8 @@
     Software Engineer with expertise in backend development and product management.
     <br><br>
     I focus on building scalable solutions and sharing knowledge through my 
-    <a href="https://medium.com/@ibrahimroshdy">technical writing</a>.
+    <a href="https://medium.com/@ibrahimroshdy">technical writing</a> and my
+    <a href="https://ibrahimroshdy.github.io/">personal website</a>.
     <br><br>
     My work spans system design, infrastructure development, and continuous integration practices. 
     I'm passionate about creating efficient solutions and documenting the journey to help others learn.
@@ -124,6 +125,8 @@
 
 <h2 align="left"> Contact me </h2>
 <p align="left">
+    <a href="https://ibrahimroshdy.github.io/"><img
+            src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
     <a href="https://medium.com/@ibrahimroshdy"><img
             src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/ibrahim-roshdy/"><img
