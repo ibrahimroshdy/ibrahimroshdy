@@ -132,3 +132,11 @@
     <a href="https://www.linkedin.com/in/ibrahim-roshdy/"><img
             src="https://img.shields.io/badge/-Ibrahim_Roshdy-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 </p>
+
+<h2 align="left"> GitHub Activity </h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="gh_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="gh_light.png">
+  <img alt="GitHub contribution graph" src="gh_light.png">
+</picture>
