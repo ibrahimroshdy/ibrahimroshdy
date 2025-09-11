@@ -1,6 +1,6 @@
-<h1 align="center"> Hi, I'm Roshdy 👋!</h1> 
+<h1 align="center"> Hi, I'm Roshdy 👋!!</h1> 
 <p align="center">
-    Software Engineer with expertise in backend development and product management.
+    Machine Learning Engineer with a strong foundation in backend development and product management
     <br><br>
     I focus on building scalable solutions and sharing knowledge through my 
     <a href="https://medium.com/@ibrahimroshdy">technical writing</a> and my
