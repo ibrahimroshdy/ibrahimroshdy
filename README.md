@@ -136,7 +136,7 @@
 <h2 align="left"> GitHub Activity </h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="gh_dark.png">
   <source media="(prefers-color-scheme: light)" srcset="gh_light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="gh_dark.png">
   <img alt="GitHub contribution graph" src="gh_light.png">
 </picture>
