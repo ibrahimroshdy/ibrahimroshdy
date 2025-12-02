@@ -2,7 +2,7 @@
 
 # Ibrahim Roshdy
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Software+Engineer;Machine+Learning+Engineer;Backend+Development+Expert;System+Design+Enthusiast;Technical+Writer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Software+Engineer;Machine+Learning+Engineer;Backend+Development;System+Design+Enthusiast;Technical+Writer" alt="Typing SVG" />
 
 <br>
 
@@ -66,16 +66,6 @@
 <a href="https://github.com/ibrahimroshdy"><img height="120" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibrahimroshdy&theme=github_dark"/></a>
 <a href="https://github.com/ibrahimroshdy"><img height="120" src="https://streak-stats.demolab.com/?user=ibrahimroshdy&theme=github-dark-blue&hide_border=true"/></a>
 </p>
-
----
-
-### Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="gh_dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="gh_light.png">
-  <img alt="GitHub contribution graph" src="gh_light.png">
-</picture>
 
 ---
 
