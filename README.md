@@ -64,7 +64,7 @@
 <p align="center">
 <a href="https://github.com/ibrahimroshdy"><img height="120" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibrahimroshdy&theme=github_dark"/></a>
 <a href="https://github.com/ibrahimroshdy"><img height="120" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibrahimroshdy&theme=github_dark"/></a>
-<a href="https://github.com/ibrahimroshdy"><img height="120" src="https://streak-stats.demolab.com/?user=ibrahimroshdy&theme=github-dark-blue&hide_border=true"/></a>
+<a href="https://github.com/ibrahimroshdy"><img height="120" src="https://streak-stats.demolab.com?user=ibrahimroshdy&theme=dark&hide_border=true&border_radius=5"/></a>
 </p>
 
 ---
