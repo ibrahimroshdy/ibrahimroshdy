@@ -14,41 +14,6 @@
 
 ---
 
-### Tech Stack
-
-<p align="left">
-<img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-</p>
-
-### ML & AI
-
-<p align="left">
-<img src="https://img.shields.io/badge/vLLM-FF6F00?style=flat-square&logo=lightning&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white"/>
-<img src="https://img.shields.io/badge/Triton_Server-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLOps-FF6B6B?style=flat-square&logo=mlflow&logoColor=white"/>
-</p>
-
-### Data & Monitoring
-
-<p align="left">
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-</p>
-
----
-
 ### Featured Projects
 
 | Project | Description | Articles |
