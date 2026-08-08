@@ -35,7 +35,6 @@
 ---
 
 <p align="left">
-<i>Building scalable solutions · Writing about the journey · Always learning</i>
 </p>
 
 <p align="left">
