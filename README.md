@@ -1,16 +1,13 @@
 <div align="center">
 
-# Ibrahim Roshdy
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Software+Engineer;Machine+Learning+Engineer;Backend+Development;System+Design+Enthusiast;Technical+Writer" alt="Typing SVG" />
-
-<br>
+## Ibrahim Roshdy
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ibrahimroshdy.github.io/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ibrahimroshdy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-roshdy/)
 
 </div>
+<<<<<<< HEAD
 
 ---
 
@@ -40,3 +37,5 @@
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=ibrahimroshdy&style=flat-square&color=58A6FF" alt="Profile Views"/>
 </p>
+=======
+>>>>>>> 502cf4d (Simplify profile to name and links)
